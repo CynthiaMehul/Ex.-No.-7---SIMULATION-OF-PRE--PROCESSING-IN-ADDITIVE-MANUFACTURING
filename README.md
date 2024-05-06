@@ -44,9 +44,11 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![1](https://github.com/CynthiaMehul/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319444/11d1c275-28e3-45db-9054-3d791f29fdba)
+![2](https://github.com/CynthiaMehul/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319444/6d236fff-c0dd-4128-a7ee-88a7bfb9f1b1)
 
-### Name:
-### Register Number:
+### Name: Cynthia Mehul 
+### Register Number: 212223240020
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
